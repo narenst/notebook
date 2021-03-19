@@ -8,4 +8,4 @@ My current plan is to tackle roughly _one project per week_. One week is long en
 
 ### Project list
 
-- Week of Mar 26: [Teach a course on Skillshare](projects/skillshare)
+- Week of Mar 26: [Teach a course on Skillshare](projects/skillshare.md)
