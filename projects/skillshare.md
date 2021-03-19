@@ -1,4 +1,4 @@
-## Create a course on Skillshare
+## Teach a course on Skillshare
 
 ### Goal
 
